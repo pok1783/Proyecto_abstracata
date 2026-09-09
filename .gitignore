@@ -1,0 +1,22 @@
+# Compiled Java files
+*.class
+bin/
+out/
+target/
+
+# IDE metadata
+.classpath
+.project
+.settings/
+.vscode/
+
+
+# VS Code workspace files
+.vscode/*.code-workspace
+
+# Build and tool caches
+.gradle/
+
+# Operating system files
+.DS_Store
+Thumbs.db
